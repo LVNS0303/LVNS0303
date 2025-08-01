@@ -35,7 +35,7 @@ Busco aprimorar não só minhas capacidades técnicas, mas também **inter e int
 
 ### 📈 Minhas estatísticas
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![LVNS0303's GitHub stats](https://github-readme-stats.vercel.app/api?username=LVNS0303)](https://github.com/LVNS0303/github-readme-stats)
 
 ---
 
