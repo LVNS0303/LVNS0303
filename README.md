@@ -41,7 +41,7 @@ Busco aprimorar não só minhas capacidades técnicas, mas também **inter e int
 
 - 💼 LinkdIn: [in/Lucas](https://www.linkedin.com/in/lucas-nascimento-3047a931b/)
 - 📧 Email: lucasvinicius06silva@gmail.com
-- 📁 Portfólio: ***
+- 📁 Portfólio: [https://github.com/LVNS0303/Portfolio]
 
 ---
 
