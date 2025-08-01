@@ -33,9 +33,6 @@ Busco aprimorar não só minhas capacidades técnicas, mas também **inter e int
 
 ---
 
-### 📈 Em Desenvolvimento
-
-<p align="left">
 
 ### 🌐 Contato e redes
 
