@@ -32,7 +32,7 @@ Busco aprimorar não só minhas capacidades técnicas, mas também **inter e int
 ### 📈 Minhas estatísticas
 <p align="left">
   <a href="https://github.com/LVNS0303">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LVNS0303&show_icons=true&theme=dracula&include_all_commits=true&count=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LVNS0303">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LVNS0303&layout=compact&langs_count=10&theme=dracula"/>
   </a>
 </p>
