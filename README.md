@@ -26,6 +26,7 @@ Busco aprimorar não só minhas capacidades técnicas, mas também **inter e int
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Construct_3_Logo.svg" alt="Construct" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Microsoft_Office_logo_%282013%E2%80%932019%29.svg" width="40" height="40">
 </p>
+
 ---
 
 ### 📈 Minhas estatísticas
