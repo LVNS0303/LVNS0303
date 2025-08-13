@@ -1,7 +1,6 @@
 
 
 <h1 align="center">Olá, eu sou o Lucas 😀</h1>
----
 
 ### 🗣️ Sobre mim
 
@@ -28,7 +27,7 @@ Busco aprimorar não só minhas capacidades técnicas, mas também **inter e int
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Construct_3_Logo.svg" alt="Construct" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/office-365.png" alt="office-365" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/microsoft-office-2019.png width="40" height="40"/>
 </p>
 
 ---
