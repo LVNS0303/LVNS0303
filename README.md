@@ -11,6 +11,7 @@ Desde pequeno, sempre tive interesse por tecnologia e informática, indo desde d
 Tenho interesse em aprimorar minhas capacidades em programação back-end e análise de dados, utilizando de ferramentas como **Python e SQL**, para oferecer soluções e serviços práticos.
 
 Busco aprimorar não só minhas capacidades técnicas, mas também **inter e intra-pessoais**, para que ambos caminhem lado a lado. Creio no poder da **disciplina e esforço**, que quando plantados e cuidados, dão **bons frutos à aqueles que persistem**.
+
 ---
 
 ### 👨‍💻 Tecnologias e Ferramentas que uso
