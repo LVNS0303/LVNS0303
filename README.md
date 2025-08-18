@@ -52,6 +52,3 @@ Busco aprimorar não só minhas capacidades técnicas, mas também **inter e int
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
-
-**RONALDO**
